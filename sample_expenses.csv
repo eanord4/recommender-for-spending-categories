@@ -1,0 +1,758 @@
+user_id,transaction_date,expense_amt,category,sub_category,payment_method,description
+2,2020-04-09,745.22,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2020-04-06,-73.25,Travel,,Credit Card,TRAVIS VEHREG            EGOV.COM     TX
+2,2020-04-03,-95.4,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-04-02,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-04-01,-20.0,Online Services,,Credit Card,USA FOR UNHCR            800-7701100  DC
+2,2020-04-01,-16.18,Hobbies,,Credit Card,Audible*WD29T3S83        Amzn.com/billNJ
+2,2020-03-30,-19.85,Gasoline,Fuel,Credit Card,H-E-B GAS/CARWASH #628   AUSTIN       TX
+2,2020-03-30,-49.22,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-03-29,-14.06,General Merchandise,,Credit Card,Amazon Prime*4413E55I3   Amzn.com/billWA
+2,2020-03-29,-14.07,Entertainment,,Credit Card,HLU*Hulu 1639988810174-U HULU.COM/BILLCA
+2,2020-03-27,-2.0,Service Charges,Fees,Credit Card,TX.GOV*SERVICEFEE-DIR    EGOV.COM     TX
+2,2020-03-26,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-03-25,-584.4,Pets,Pet Care,Credit Card,ZIPPIVET SOUTH LAMAR     AUSTIN       TX
+2,2020-03-24,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-03-24,960.0,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2020-03-23,-31.93,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2020-03-22,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-03-20,-53.74,General Merchandise,,Credit Card,WALMART.COM 8009666546   800-966-6546 AR
+2,2020-03-19,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-03-19,-12.79,Charitable Giving,,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2020-03-13,-148.2,Telephone Services,,Credit Card,SPECTRUM                 855-707-7328 TX
+2,2020-03-13,-9.45,Groceries,,Credit Card,BUC-EE'S #28             BASTROP      TX
+2,2020-03-12,-83.82,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-03-12,14.06,Dues and Subscriptions,,Credit Card,Amazon Prime             Amzn.com/billWA
+2,2020-03-12,-18.51,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2020-03-11,-22.0,Pets,Pet Care,Credit Card,WAG! WALKING             3234335302   CA
+2,2020-03-10,-1.08,Groceries,,Credit Card,BUC-EE'S #28             BASTROP      TX
+2,2020-03-09,-9.5,Restaurants,Dining,Credit Card,CHICK-FIL-A #02992       AUSTIN       TX
+2,2020-03-08,-14.06,Dues and Subscriptions,,Credit Card,Amazon Prime*ES9KT23G3   Amzn.com/billWA
+2,2020-03-08,-10.0,Charitable Giving,,Credit Card,ACTBLUE*Bernie.2020      actbluecc.comMA
+2,2020-03-07,-16.18,Hobbies,,Credit Card,Audible*ML70R6CY3        Amzn.com/billNJ
+2,2020-03-07,-9.15,Restaurants,Dining,Credit Card,STARBUCKS STORE 19258    HOUSTON      TX
+2,2020-03-06,-20.0,Charitable Giving,,Credit Card,USA FOR UNHCR            800-7701100  DC
+2,2020-03-04,-15.91,Restaurants,Dining,Credit Card,TST* VELVET TACO - AUSTINAUSTIN       TX
+2,2020-03-03,-10.0,Travel,,Credit Card,PAS*AUSTIN PARKING       512-974-2000 TX
+2,2020-03-02,-14.07,Entertainment,,Credit Card,HLU*Hulu 1639988815288-U HULU.COM/BILLCA
+2,2020-03-02,-10.81,Gasoline,Fuel,Credit Card,GULF OIL 92053551        AUSTIN       TX
+2,2020-03-02,-14.31,Travel,,Credit Card,LYFT   *RIDE SAT 9AM     lyft.com     CA
+2,2020-03-01,-12.47,Travel,,Credit Card,LYFT   *RIDE MON 1PM     lyft.com     CA
+2,2020-02-28,-64.9,General Merchandise,,Credit Card,WALMART.COM 8009666546   800-966-6546 AR
+2,2020-02-28,-30.55,Gasoline,Fuel,Credit Card,GULF OIL 92053551        AUSTIN       TX
+2,2020-02-27,-10.0,Restaurants,Dining,Credit Card,SQ *MY THAI MOM          Austin       TX
+2,2020-02-26,-22.17,Restaurants,Dining,Credit Card,JIMMY JOHNS # 365        AUSTIN       TX
+2,2020-02-25,-11.08,Restaurants,Dining,Credit Card,CHI LANTRO CATERING LLC -AUSTIN       TX
+2,2020-02-25,-64.67,Restaurants,Dining,Credit Card,LA TRAVIATA              AUSTIN       TX
+2,2020-02-23,-9.45,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-02-22,-62.67,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-02-21,-11.08,Restaurants,Dining,Credit Card,CHI LANTRO CATERING LLC -AUSTIN       TX
+2,2020-02-21,-5.08,Healthcare,Medical,Credit Card,CVS/PHARMACY #10888      AUSTIN       TX
+2,2020-02-20,-38.83,Clothing,Shoes,Credit Card,TST* HONEST MARY S       AUSTIN       TX
+2,2020-02-19,-22.95,Personal Care,,Credit Card,SUPERCUTS TX522-RIVERSIDEAUSTIN       TX
+2,2020-02-19,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-02-15,-33.27,Gasoline,Fuel,Credit Card,CHEVRON 0203165          AUSTIN       TX
+2,2020-02-15,-16.18,Hobbies,,Credit Card,Audible*TL6JZ8QG3        Amzn.com/billNJ
+2,2020-02-14,-12.79,Clothing,Shoes,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2020-02-14,-9.52,Restaurants,Dining,Credit Card,NEWKS EATERY - CONGRESS  AUSTIN       TX
+2,2020-02-14,37.76,General Merchandise,,Credit Card,WAL-MART #1253     SE2   AUSTIN       TX
+2,2020-02-13,-15.0,Restaurants,Dining,Credit Card,SQ *MY THAI MOM          Austin       TX
+2,2020-02-13,-25.85,Online Services,,Credit Card,DRI*AVAST SOFTWARE       avast.com/ordMN
+2,2020-02-11,12.56,Refunds,Adjustments,Credit Card,AMZN Mktp US             Amzn.com/billWA
+2,2020-02-11,-7.58,Restaurants,Dining,Credit Card,CHIPOTLE 0501            AUSTIN       TX
+2,2020-02-10,-8.96,Gasoline,Fuel,Credit Card,7-ELEVEN 23295           AUSTIN       TX
+2,2020-02-10,-17.38,Restaurants,Dining,Credit Card,SUBWAY        00143677   AUSTIN       TX
+2,2020-02-08,-87.71,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-02-07,-16.18,Entertainment,,Credit Card,Audible*FH1I42VI3        Amzn.com/billNJ
+2,2020-02-06,-4.76,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-02-06,-18.68,Clothing,Shoes,Credit Card,TST* HONEST MARY S       AUSTIN       TX
+2,2020-02-05,-4.98,Gasoline,Fuel,Credit Card,SHELL OIL 57545831802    AUSTIN       TX
+2,2020-02-05,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-02-05,-14.07,Entertainment,,Credit Card,HLU*Hulu 1639988816159-U HULU.COM/BILLCA
+2,2020-02-03,-17.71,Restaurants,Dining,Credit Card,POKE BAY                 AUSTIN       TX
+2,2020-02-03,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-02-02,-20.0,Charitable Giving,,Credit Card,USA FOR UNHCR            800-7701100  DC
+2,2020-02-01,-14.06,General Merchandise,,Credit Card,Amazon Prime*SU7DE3KQ3   Amzn.com/billWA
+2,2020-02-01,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-02-01,-2.0,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-02-01,-9.2,Restaurants,Dining,Credit Card,QUIZNOS #246             AUSTIN       TX
+2,2020-01-31,787.11,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2020-01-31,-1.05,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-01-31,-59.0,Pets,Pet Care,Credit Card,ZIPPIVET SOUTH LAMAR     AUSTIN       TX
+2,2020-01-30,-7.33,Gasoline,Fuel,Credit Card,7-ELEVEN 23295           AUSTIN       TX
+2,2020-01-28,-11.47,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-01-27,-9.26,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2020-01-27,-10.0,Restaurants,Dining,Credit Card,SQ *MY THAI MOM          AUSTIN       TX
+2,2020-01-27,-6.95,Groceries,,Credit Card,PURITY PRODUCTS          888-769-7873 NY
+2,2020-01-26,-4.06,Personal Care,,Credit Card,SQ *TROPICAL DREAMS AUSTIAustin       TX
+2,2020-01-25,-33.99,Gasoline,Fuel,Credit Card,SHELL OIL 57545831802    AUSTIN       TX
+2,2020-01-23,-12.56,General Merchandise,,Credit Card,AMZN Mktp US*U94UO7EM3   Amzn.com/billWA
+2,2020-01-23,-12.79,Other Expenses,,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2020-01-22,-9.72,Restaurants,Dining,Credit Card,RAISING CANE'S #140      AUSTIN       TX
+2,2020-01-21,-6.17,General Merchandise,,Credit Card,TARGET        00032508   AUSTIN       TX
+2,2020-01-20,-24.49,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2020-01-20,-120.58,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-01-19,-6.11,Restaurants,Dining,Credit Card,TACO BELL #032513        AUSTIN       TX
+2,2020-01-19,-37.76,General Merchandise,,Credit Card,WM SUPERCENTER #1253     AUSTIN       TX
+2,2020-01-17,-38.97,Restaurants,Dining,Credit Card,1400 SO CO HOP DODDY     AUSTIN       TX
+2,2020-01-17,-16.18,Dues and Subscriptions,,Credit Card,Audible US*A19EO5HS3     888-283-5051 NJ
+2,2020-01-17,-7.58,Restaurants,Dining,Credit Card,CHIPOTLE 0501            AUSTIN       TX
+2,2020-01-16,-7.95,Travel,,Credit Card,LYFT   *RIDE SAT 9AM     lyft.com     CA
+2,2020-01-15,-33.99,Pets,Pet Care,Credit Card,PETSMART # 1736          AUSTIN       TX
+2,2020-01-15,14.06,Dues and Subscriptions,,Credit Card,Amazon Prime             Amzn.com/billWA
+2,2020-01-14,-12.61,Restaurants,Dining,Credit Card,SQ *KESOS TACOS          AUSTIN       TX
+2,2020-01-14,-31.57,Gasoline,Fuel,Credit Card,SHELL OIL 57544800006    AUSTIN       TX
+2,2020-01-13,-8.81,Clothing,Shoes,Credit Card,BHAGWANDAS               SURAT        II
+2,2020-01-13,-4.5,Travel,,Credit Card,TX CAPITOLPARKINGMETERS  AUSTIN       TX
+2,2020-01-13,-19.47,Entertainment,,Credit Card,ADULT VIDEO MEGAPLEXXX   AUSTIN       TX
+2,2020-01-12,-7.24,Restaurants,Dining,Credit Card,RAISING CANE'S #140      AUSTIN       TX
+2,2020-01-12,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-01-11,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-01-10,-285.29,Clothing,Shoes,Credit Card,A F P L PARIS LALGATE    SURAT        II
+2,2020-01-10,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-01-09,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2020-01-09,-67.31,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2020-01-08,-8.68,Travel,,Credit Card,NARITA AIRPORT TERMINAL  CHIBA        JP
+2,2020-01-08,-7.51,Travel,,Credit Card,LYFT   *SCOOTER RIDE     lyft.com     CA
+2,2020-01-08,-7.58,Restaurants,Dining,Credit Card,CHIPOTLE 0501            AUSTIN       TX
+2,2020-01-08,-11.12,Clothing,Shoes,Credit Card,PARMAR BOOT HOUSE        SURAT        II
+2,2020-01-06,-11.91,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2020-01-06,-3.0,Travel,,Credit Card,91280 - AUSTIN-BERGSTROM AUSTIN       TX
+2,2020-01-06,-14.06,General Merchandise,,Credit Card,Amazon Prime*AX08R5FF3   Amzn.com/billWA
+2,2020-01-05,-10.86,Personal Care,,Credit Card,ENRICH HAIR &amp; SKIN SOL   SURAT        II
+2,2020-01-05,-8.65,Restaurants,Dining,Credit Card,SQ *TASTE OF INDIA       AUSTIN       TX
+2,2020-01-05,1193.93,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2020-01-04,-2.03,Restaurants,Dining,Credit Card,MY SORE  CAFE            SURAT        II
+2,2020-01-01,-11.9,Gasoline,Fuel,Credit Card,EXXONMOBIL    47963558   AUSTIN       TX
+2,2019-12-31,-16.18,Dues and Subscriptions,,Credit Card,TST* SOUR DUCK           AUSTIN       TX
+2,2019-12-31,-133.9,Pets,Pet Care,Credit Card,ZIPPIVET SOUTH LAMAR     AUSTIN       TX
+2,2019-12-31,-24.52,Travel,,Credit Card,LYFT   *RIDE WED 11AM    lyft.com     CA
+2,2019-12-30,-59.61,Entertainment,,Credit Card,DHIRAJ SONS THE MEGA S   SURAT        II
+2,2019-12-30,-4.3,Automotive Expenses,,Credit Card,LIM*RIDE COST            WWW.LIMEBIKE.CA
+2,2019-12-29,-6.0,Travel,,Credit Card,91280 - AUSTIN-BERGSTROM AUSTIN       TX
+2,2019-12-29,-6.46,Entertainment,,Credit Card,HLU*Hulu 1477392861924-U HULU.COM/BILLCA
+2,2019-12-29,-9.67,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-12-29,-210.59,Clothing,Shoes,Credit Card,KALAMANDIR JEWELLERS     KOSAMBA      II
+2,2019-12-28,-49.8,Pets,Pet Care,Credit Card,ZIPPIVET SOUTH LAMAR     AUSTIN       TX
+2,2019-12-28,-72.94,Healthcare,Medical,Credit Card,DENTICARE DENTAL CARE    SURAT        II
+2,2019-12-28,-7.24,Restaurants,Dining,Credit Card,RAISING CANE'S #140      AUSTIN       TX
+2,2019-12-28,-31.25,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-12-27,-86.83,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-12-26,-3.29,Restaurants,Dining,Credit Card,BEIJINGSHOUDUJICHANGCA   BEIJING      CN
+2,2019-12-26,-105.84,Clothing,Shoes,Credit Card,CENTRAL                  SURAT        II
+2,2019-12-24,-16.18,Dues and Subscriptions,,Credit Card,Audible US*BE1GF0PN3     888-283-5051 NJ
+2,2019-12-24,-52.57,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-12-24,-5.15,Restaurants,Dining,Credit Card,MC DONALDS               SURAT        II
+2,2019-12-23,-10.68,Travel,,Credit Card,LYFT   *RIDE WED 11AM    lyft.com     CA
+2,2019-12-23,-10.11,Travel,,Credit Card,AUSTIN AIRPORT-F&amp;B       AUSTIN       TX
+2,2019-12-23,1503.23,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-12-22,-40.03,Entertainment,,Credit Card,ADULT VIDEO MEGAPLEXXX   AUSTIN       TX
+2,2019-12-21,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-19,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-19,-5.39,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-12-19,-8.93,Telephone Services,,Credit Card,AT&amp;T ROOMSDEPT           AUSTIN       TX
+2,2019-12-17,-5.0,Charitable Giving,,Credit Card,ACTBLUE*Elizabeth.Warren 617-5177600  MA
+2,2019-12-15,29.94,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-12-13,-17.75,Travel,,Credit Card,LYFT   *RIDE WED 9AM     lyft.com     CA
+2,2019-12-13,-9.26,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND - HAUSTIN       TX
+2,2019-12-12,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-12,-19.96,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-12-11,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-11,-4.01,Restaurants,Dining,Credit Card,ICE CREAM &amp; CHOCOLATE    SAN ANTONIO  TX
+2,2019-12-11,-32.63,Gasoline,Fuel,Credit Card,SHELL OIL 57545831802    AUSTIN       TX
+2,2019-12-10,-40.0,Online Services,,Credit Card,FEEDING AMERICA          WWW.FEEDINGAMIL
+2,2019-12-10,-411.07,Pets,Pet Care,Credit Card,ZIPPIVET SOUTH LAMAR     AUSTIN       TX
+2,2019-12-09,-10.0,Travel,,Credit Card,PAS*AUSTIN PARKING       512-974-2000 TX
+2,2019-12-09,-12.79,Other Expenses,,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2019-12-09,-37.76,Gasoline,Fuel,Credit Card,H-E-B GAS/CARWASH #628   AUSTIN       TX
+2,2019-12-09,-23.74,General Merchandise,,Credit Card,AMZN MKTP US*6E4MM70C3 AMAMZN.COM/BILLWA
+2,2019-12-09,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-09,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-08,-46.0,General Merchandise,,Credit Card,AMAZON.COM*8X6RA07P3 AMZNAMZN.COM/BILLWA
+2,2019-12-07,-64.59,General Merchandise,,Credit Card,AMAZON.COM*WR8NN79W3 AMZNAMZN.COM/BILLWA
+2,2019-12-07,-12.9,Gasoline,Fuel,Credit Card,H-E-B GAS/CARWASH #628   AUSTIN       TX
+2,2019-12-06,-11.0,Restaurants,Dining,Credit Card,SQ *COCO'S CAFE ON       AUSTIN       TX
+2,2019-12-04,-23.82,Automotive Expenses,,Credit Card,YOUNIVERSAL AUTO CAR     AUSTIN       TX
+2,2019-12-04,-29.94,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-12-04,-6.46,Entertainment,,Credit Card,HLU*Hulu 1477392868121-U HULU.COM/BILLCA
+2,2019-12-04,-10.83,Clothing,Shoes,Credit Card,FOSSIL 8401              AUSTIN       TX
+2,2019-12-04,-199.99,Restaurants,Dining,Credit Card,CERTAPET.COM             HTTPSWWW.CERTTX
+2,2019-12-03,3.99,Groceries,,Credit Card,MAN PASAND GROCERY       AUSTIN       TX
+2,2019-12-03,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-02,-49.47,Groceries,,Credit Card,MAN PASAND GROCERY       AUSTIN       TX
+2,2019-12-02,-121.31,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-12-02,-18.29,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-12-02,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-12-01,-1.62,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-11-30,-4.33,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-11-30,-11.14,Postage and Shipping,,Credit Card,THE UPS STORE #0077      AUSTIN       TX
+2,2019-11-29,-21.87,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-11-28,-5.0,Charitable Giving,,Credit Card,ACTBLUE*Elizabeth.Warren 617-5177600  MA
+2,2019-11-28,-8.11,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-11-28,-10.26,Restaurants,Dining,Credit Card,SUBWAY        00233957   AUSTIN       TX
+2,2019-11-27,-16.18,Hobbies,,Credit Card,Audible US*X833T15N3     888-283-5051 NJ
+2,2019-11-27,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-11-25,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-11-25,-22.95,Personal Care,,Credit Card,SUPERCUTS TX522-RIVERSIDEAUSTIN       TX
+2,2019-11-24,-6.5,Telephone Services,,Credit Card,AT&amp;T ROOMSDEPT           AUSTIN       TX
+2,2019-11-23,-11.38,Restaurants,Dining,Credit Card,SQ *MONK'S MO:MO         Austin       TX
+2,2019-11-23,-10.0,Travel,,Credit Card,PAS*AUSTIN PARKING       512-974-2000 TX
+2,2019-11-23,-4.0,Travel,,Credit Card,COA PARKING METERS       AUSTIN       TX
+2,2019-11-22,-3.44,Telephone Services,,Credit Card,AT&amp;T ROOMSDEPT           AUSTIN       TX
+2,2019-11-22,-26.37,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-11-22,-20.0,Entertainment,,Credit Card,STLABREINDI              866-753-5496 MT
+2,2019-11-21,-18.23,Travel,,Credit Card,LYFT   *RIDE MON 9PM     lyft.com     CA
+2,2019-11-20,-12.32,Restaurants,Dining,Credit Card,TST* VERACRUZ ALL NATURALAUSTIN       TX
+2,2019-11-20,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-11-20,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-11-19,-80.78,Travel,,Credit Card,HERTZ RENT-A-CAR         SANTA BARBARACA
+2,2019-11-19,-7.5,Restaurants,Dining,Credit Card,SQ *RADIO COFFEE &amp; BEER  Austin       TX
+2,2019-11-18,872.79,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-11-17,-16.18,Hobbies,,Credit Card,Audible*SX02H23R3        Amzn.com/billNJ
+2,2019-11-15,-12.79,Clothing,Shoes,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2019-11-15,-1.55,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-11-15,-4.95,Restaurants,Dining,Credit Card,STARBUCKS STORE 00576    SANTA BARBARACA
+2,2019-11-15,-43.78,Restaurants,Dining,Credit Card,MIZZA                    SANTA BARBARACA
+2,2019-11-14,-28.86,Gasoline,Fuel,Credit Card,CHEVRON 0107143          AUSTIN       TX
+2,2019-11-14,-1.5,Personal Care,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-11-14,-10.09,Gasoline,Fuel,Credit Card,CHEVRON 0091799          SANTA BARBARACA
+2,2019-11-13,-4.88,Travel,,Credit Card,LYFT   *SCOOTER RIDE     lyft.com     CA
+2,2019-11-12,1194.06,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-11-12,-8.63,Gasoline,Fuel,Credit Card,G&amp;M OIL COMPANY #194     LOS ANGELES  CA
+2,2019-11-12,-83.68,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-11-10,-2.19,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-11-10,-7.55,Travel,,Credit Card,LYFT   *RIDE SAT 12PM    lyft.com     CA
+2,2019-11-10,-91.75,Travel,,Credit Card,BUDGET RENT-A-CAR        LOS ANGELES  CA
+2,2019-11-09,-11.25,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-11-09,-3.06,Restaurants,Dining,Credit Card,LAX AIRP DUNKIN DONUTS   LOS ANGELES  CA
+2,2019-11-09,-15.74,Restaurants,Dining,Credit Card,BURGER KING #903         LOS ANGELES  CA
+2,2019-11-08,-8.16,Travel,,Credit Card,LYFT   *RIDE SAT 3PM     lyft.com     CA
+2,2019-11-08,-22.45,Restaurants,Dining,Credit Card,TST* THE BREWTORIUM BREWEAUSTIN       TX
+2,2019-11-08,-186.87,Clothing,Shoes,Credit Card,THE MENS WEARHOUSE #2717 SANTA BARBARACA
+2,2019-11-08,-60.0,Healthcare,Medical,Credit Card,AUSTIN NEUROSURGEONS     512-314-3888 TX
+2,2019-11-05,-10.32,Travel,,Credit Card,LYFT   *RIDE SUN 2PM     lyft.com     CA
+2,2019-11-05,-10.59,Restaurants,Dining,Credit Card,BURGER KING #2223        LOS ANGELES  CA
+2,2019-11-05,-14.02,Travel,,Credit Card,AUSTIN AIRPORT-F&amp;B       AUSTIN       TX
+2,2019-11-05,-30.02,Restaurants,Dining,Credit Card,CAJUN KITCHEN CAFE CHAPA SANTA BARBARACA
+2,2019-11-05,-4.59,Travel,,Credit Card,LYFT   *SCOOTER RIDE     lyft.com     CA
+2,2019-11-04,-5.0,Charitable Giving,,Credit Card,ACTBLUE*Elizabeth.Warren 617-5177600  MA
+2,2019-11-04,-8.24,Gasoline,Fuel,Credit Card,CHEVRON 0091799          SANTA BARBARACA
+2,2019-11-04,-2.39,Automotive Expenses,,Credit Card,LIM*RIDE COST            WWW.LIMEBIKE.CA
+2,2019-11-04,-274.34,Cable,Satellite Services,Credit Card,ZIPPIVET MOBILE 1        AUSTIN       TX
+2,2019-11-03,-18.98,Travel,,Credit Card,LYFT   *RIDE FRI 7AM     lyft.com     CA
+2,2019-11-02,-236.23,Pets,Pet Care,Credit Card,EMBRACE PET INSURANCE AG 800-511-9172 OH
+2,2019-11-01,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-31,-19.56,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-10-27,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-27,-16.17,Entertainment,,Credit Card,HLU*Hulu 1477392866651-U HULU.COM/BILLCA
+2,2019-10-27,-17.23,Restaurants,Dining,Credit Card,SQ *AMY'S ICE CREAM      AUSTIN       TX
+2,2019-10-26,-16.18,Hobbies,,Credit Card,Audible US*SP72V4YR3     888-283-5051 NJ
+2,2019-10-25,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-10-25,-21.81,Automotive Expenses,,Credit Card,LOVE S TRAVEL 00007195   TROY         TX
+2,2019-10-24,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-24,-21.57,Gasoline,Fuel,Credit Card,EXXONMOBIL    48297352   JARRELL      TX
+2,2019-10-24,-21.73,Travel,,Credit Card,RMA TOLL                 833-762-8655 CA
+2,2019-10-22,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-22,-34.42,Gasoline,Fuel,Credit Card,CHEVRON 0107143          AUSTIN       TX
+2,2019-10-22,750.19,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-10-21,-12.83,Restaurants,Dining,Credit Card,SAO PAULOS LLC           AUSTIN       TX
+2,2019-10-20,-16.18,Entertainment,,Credit Card,Audible US*KN08O2ZY3     888-283-5051 NJ
+2,2019-10-20,-13.48,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-10-18,-18.83,Restaurants,Dining,Credit Card,GOURMAND'S               AUSTIN       TX
+2,2019-10-17,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-17,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-16,-12.79,Other Expenses,,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2019-10-16,-16.23,Pets,Pet Care,Credit Card,HOLLYWOOD FEED 89        AUSTIN       TX
+2,2019-10-16,-59.96,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-10-15,-97.84,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-10-14,-31.78,Automotive Expenses,,Credit Card,H-E-B GAS/CARWASH #628   AUSTIN       TX
+2,2019-10-13,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-13,-2.0,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-10,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-10,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-10,-15.16,Restaurants,Dining,Credit Card,TUCCI'S SOUTHSIDE SUBS   AUSTIN       TX
+2,2019-10-08,-1.1,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-08,-10.0,Travel,,Credit Card,PAS*AUSTINPRKNG          512-974-2000 TX
+2,2019-10-07,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-10-05,-16.18,Entertainment,,Credit Card,Audible US*VC13K4053     888-283-5051 NJ
+2,2019-10-04,-29.77,Gasoline,Fuel,Credit Card,GULF OIL 92048809        AUSTIN       TX
+2,2019-10-03,-20.0,Clothing,Shoes,Credit Card,THE MENS WEARHOUSE #1222 AUSTIN       TX
+2,2019-10-02,-10.0,Charitable Giving,,Credit Card,ACTBLUE*Bernie.2020      actbluecc.comMA
+2,2019-10-02,-190.6,Travel,,Credit Card,AMERICAN AIR0012380343504FORT WORTH   TX
+2,2019-10-01,-190.6,Travel,,Credit Card,AMERICAN AIR0012380343505FORT WORTH   TX
+2,2019-10-01,-0.61,Service Charges,Fees,Credit Card,TRAVISCTYJP *EPAY        877-687-7870 TX
+2,2019-09-30,-12.0,Restaurants,Dining,Credit Card,BUZZ MILL                AUSTIN       TX
+2,2019-09-30,-10.83,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-09-30,-5.0,Charitable Giving,,Credit Card,ACTBLUE*Elizabeth.Warren 617-5177600  MA
+2,2019-09-29,-10.0,Charitable Giving,,Credit Card,ACTBLUE*ANDREW.YANG      actbluecc.comMA
+2,2019-09-29,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-09-29,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-09-28,-16.17,Entertainment,,Credit Card,HLU*Hulu 1477392865007-U HULU.COM/BILLCA
+2,2019-09-28,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-09-28,-5.41,Pets,Pet Care,Credit Card,SQ *BUDDYSBONZ 1         AUSTIN       TX
+2,2019-09-27,-22.95,Personal Care,,Credit Card,SUPERCUTS TX522-RIVERSIDEAUSTIN       TX
+2,2019-09-26,-16.18,Entertainment,,Credit Card,Audible US*C62E322Y3     888-283-5051 NJ
+2,2019-09-25,-147.42,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-09-25,-4.8,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-09-24,750.19,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-09-24,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-09-24,-22.0,Service Charges,Fees,Credit Card,TRAVISCTYJP3*EPAY        512-854-7241 TX
+2,2019-09-23,-2.5,Restaurants,Dining,Credit Card,SQ *RADIO COFFEE &amp; BEER  Austin       TX
+2,2019-09-23,-63.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-09-22,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-09-21,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-09-19,-12.79,Other Expenses,,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2019-09-18,-38.84,Entertainment,,Credit Card,Audible US*1R09I8NR3     888-283-5051 NJ
+2,2019-09-16,-8.0,Restaurants,Dining,Credit Card,SQ *RADIO COFFEE &amp; BEER  Austin       TX
+2,2019-09-16,-262.12,Telephone Services,,Credit Card,ZIPPIVET MOBILE 1        AUSTIN       TX
+2,2019-09-16,-16.56,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 13 AUSTIN       TX
+2,2019-09-16,-4.0,Groceries,,Credit Card,SQ *PECAN STREET AS      AUSTIN       TX
+2,2019-09-14,-24.89,Groceries,,Credit Card,BARTON HILLS FOOD MART   AUSTIN       TX
+2,2019-09-14,-11.37,Restaurants,Dining,Credit Card,SQ *DAVE'S TACOS         AUSTIN       TX
+2,2019-09-14,-680.23,Automotive Expenses,,Credit Card,LATHAM AUTOMOTIVE        MANCHACA     TX
+2,2019-09-13,-166.23,Restaurants,Dining,Credit Card,AUSTINS PIZZA TX - 9     AUSTIN       TX
+2,2019-09-13,1419.99,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-09-13,-4.99,Healthcare,Medical,Credit Card,WALGREENS #15672         AUSTIN       TX
+2,2019-09-13,-30.62,Gasoline,Fuel,Credit Card,EXXONMOBIL    47856067   MANCHACA     TX
+2,2019-09-13,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-09-11,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-09-10,-20.67,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-09-09,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-09-09,-18.5,Automotive Expenses,,Credit Card,1626 AUTO INSPECTIONS    AUSTIN       TX
+2,2019-09-08,-47.0,Electronics,,Credit Card,WWW.WRITERS.WORK         HTTPSWWW.WRITTX
+2,2019-09-08,-129.1,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-09-08,-10.0,Charitable Giving,,Credit Card,PLANNED PARENTHOOD ACTION212-5417800  NY
+2,2019-09-07,-16.08,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 1  AUSTIN       TX
+2,2019-09-07,-129.9,Automotive Expenses,,Credit Card,SQ *CAPITOL MUFFLER AND MAustin       TX
+2,2019-09-07,-16.18,Entertainment,,Credit Card,Audible US*MO9DO4PR0     888-283-5051 NJ
+2,2019-09-05,-16.17,Entertainment,,Credit Card,HLU*Hulu 1477392863990-U HULU.COM/BILLCA
+2,2019-09-04,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-09-03,-5.99,Online Services,,Credit Card,GOOGLE*GOOGLE PLAY       INTERNET     CA
+2,2019-09-03,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-09-03,-11.9,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-09-03,-2.15,Groceries,,Credit Card,STASSNEY FOOD MART       AUSTIN       TX
+2,2019-09-02,-12.75,Automotive Expenses,,Credit Card,TXDPS DRIVER LICENSE     EGOV.COM     TX
+2,2019-09-01,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-08-31,7.56,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-08-31,-36.52,Gasoline,Fuel,Credit Card,TEXACO 0372661           AUSTIN       TX
+2,2019-08-29,1419.99,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-08-29,-10.0,Charitable Giving,,Credit Card,ACTBLUE*Elizabeth.Warren actbluecc.comMA
+2,2019-08-29,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-08-29,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-08-28,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-08-28,-1.08,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-08-27,-4.25,Restaurants,Dining,Credit Card,SQ *MANANA COFFEE        AUSTIN       TX
+2,2019-08-26,-16.0,Travel,,Credit Card,PREMIUM PARKING          HTTPSWWW.PREMLA
+2,2019-08-25,-16.65,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-08-25,-234.9,Restaurants,Dining,Credit Card,MAD GREENS - CATERING    303-355-2499 CO
+2,2019-08-25,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-08-24,-20.2,Restaurants,Dining,Credit Card,DENNY'S INC 1800733669   AUSTIN       TX
+2,2019-08-23,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-08-23,-10.81,Home Improvement,,Credit Card,LOWES #00689*            AUSTIN       TX
+2,2019-08-23,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-08-22,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-08-22,-37.95,Gasoline,Fuel,Credit Card,SHELL OIL 57541589701    AUSTIN       TX
+2,2019-08-22,-53.29,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-08-22,-42.86,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-08-21,-17.0,Entertainment,,Credit Card,VIOLET CROWN SOCIAL CLUB AUSTIN       TX
+2,2019-08-21,-17.71,Restaurants,Dining,Credit Card,DENNY'S INC 1800733669   AUSTIN       TX
+2,2019-08-21,-149.14,Restaurants,Dining,Credit Card,TORCHYS TACOS CONGRESS 32AUSTIN       TX
+2,2019-08-20,199.99,Education,,Credit Card,AMZN Mktp US             Amzn.com/billWA
+2,2019-08-20,-5.0,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-08-19,-16.18,Entertainment,,Credit Card,Audible US*MO9LY8ED2     888-283-5051 NJ
+2,2019-08-17,-152.63,Restaurants,Dining,Credit Card,MAD GREENS - CATERING    303-355-2499 CO
+2,2019-08-17,-13.68,Restaurants,Dining,Credit Card,SQ *PEPITOS LLC          Austin       TX
+2,2019-08-14,-14.0,Restaurants,Dining,Credit Card,VOLSTEAD LOUNGE          AUSTIN       TX
+2,2019-08-13,-6.0,Restaurants,Dining,Credit Card,VOLSTEAD LOUNGE          AUSTIN       TX
+2,2019-08-12,-12.79,Other Expenses,,Credit Card,VIRTUAL VOCATIONS        800-379-5092 OR
+2,2019-08-11,-4.33,Restaurants,Dining,Credit Card,TST* DESERT DOOR DISTILLEDRIFTWOOD    TX
+2,2019-08-11,-109.18,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-08-11,-32.96,Groceries,,Credit Card,CORNER STORE 1444        CEDAR PARK   TX
+2,2019-08-09,-38.96,Entertainment,,Credit Card,APL* ITUNES.COM/BILL     866-712-7753 CA
+2,2019-08-08,-9.73,Entertainment,,Credit Card,Netflix.com              netflix.com  CA
+2,2019-08-08,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-08-08,-11.0,General Merchandise,,Credit Card,AMZN Mktp US*MA5E48B11   Amzn.com/billWA
+2,2019-08-07,-31.52,Restaurants,Dining,Credit Card,JACKALOPE SOUTHSHORE     AUSTIN       TX
+2,2019-08-07,-7.51,Entertainment,,Credit Card,HLU*Hulu 1477392860914-U HULU.COM/BILLCA
+2,2019-08-06,-14.88,Home Improvement,,Credit Card,THE HOME DEPOT #6542     AUSTIN       TX
+2,2019-08-05,-34.78,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-08-05,-22.95,Personal Care,,Credit Card,SUPERCUTS TX522-RIVERSIDEAUSTIN       TX
+2,2019-08-04,-1.24,Travel,,Credit Card,COA PARKING METERS       AUSTIN       TX
+2,2019-08-03,-259.67,Education,,Credit Card,CODECADEMY               917-284-8755 NY
+2,2019-08-03,-6.6,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-08-02,-14.34,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-08-01,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-08-01,-6.0,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-08-01,-16.5,Other Expenses,,Credit Card,PARKRECEIPTS.COM -V      866-366-8391 TX
+2,2019-07-31,-16.18,Entertainment,,Credit Card,Audible US*MA6U21G91     888-283-5051 NJ
+2,2019-07-30,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-07-29,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-07-29,784.16,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-07-29,-73.0,Healthcare,Medical,Credit Card,AUSTIN FAMILY INSTITUTE  512-329-6611 TX
+2,2019-07-28,-121.61,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-07-28,-35.07,Groceries,,Credit Card,CORNER STORE 0552        AUSTIN       TX
+2,2019-07-28,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-07-27,-16.18,Entertainment,,Credit Card,Audible US*MH2431S00     888-283-5051 NJ
+2,2019-07-26,-47.76,Gifts,,Credit Card,UNCOMMONGOODS            888-365-0056 NY
+2,2019-07-25,-16.26,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-07-25,-354.0,Healthcare,Medical,Credit Card,TEXAS STATE OPTICAL      AUSTIN       TX
+2,2019-07-24,-2.1,Travel,,Credit Card,COA PARKING METERS       AUSTIN       TX
+2,2019-07-20,-12.34,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-07-19,1241.71,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-07-18,-36.62,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-07-18,-24.0,Restaurants,Dining,Credit Card,TASTY WEASEL AUSTIN      AUSTIN       TX
+2,2019-07-18,-38.84,Entertainment,,Credit Card,Audible US*MA3NB5L52     888-283-5051 NJ
+2,2019-07-17,-36.27,Gasoline,Fuel,Credit Card,GULF OIL 92048809        AUSTIN       TX
+2,2019-07-17,-12.97,Home Improvement,,Credit Card,THE HOME DEPOT #6542     AUSTIN       TX
+2,2019-07-15,-12.79,Other Expenses,,Credit Card,VIRTUAL VOCATIONS        8003795092   OR
+2,2019-07-15,-10.21,Gasoline,Fuel,Credit Card,CHEVRON 0203165          AUSTIN       TX
+2,2019-07-14,-37.52,Groceries,,Credit Card,MOONIES BURGER HOUSE     CEDAR PARK   TX
+2,2019-07-13,-53.29,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-07-13,-51.47,Restaurants,Dining,Credit Card,ODDWOOD ALES             AUSTIN       TX
+2,2019-07-13,-15.73,Gasoline,Fuel,Credit Card,GULF OIL 92048809        AUSTIN       TX
+2,2019-07-13,-5.0,Travel,,Credit Card,BIRD APP                 8662052442   CA
+2,2019-07-13,-33.11,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-07-13,-9.85,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-07-11,-8.4,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-07-11,-5.57,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-07-09,-18.24,Pets,Pet Care,Credit Card,EMBRACE PET INSURANCE AG 800-511-9172 OH
+2,2019-07-09,-24.85,Home Improvement,,Credit Card,AT HOME STORE #32        AUSTIN       TX
+2,2019-07-09,-380.55,Pets,Pet Care,Credit Card,EMBRACE PET INSURANCE AG 800-511-9172 OH
+2,2019-07-09,-4.86,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-07-08,-54.11,Clothing,Shoes,Credit Card,080 - HELZBERG DIAMONDS  AUSTIN       TX
+2,2019-07-08,-18.93,Automotive Expenses,,Credit Card,NAPA AUTO PARTS 0000880  CEDAR PARK   TX
+2,2019-07-07,-12.14,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-07-06,-3.25,Other Expenses,,Credit Card,NCL RECYCLED READS GIF   AUSTIN       TX
+2,2019-07-06,-3.6,Travel,,Credit Card,COA PARKING METERS       AUSTIN       TX
+2,2019-07-05,-30.28,Travel,,Credit Card,THE GREAT OUTDOORS       AUSTIN       TX
+2,2019-07-04,-4.15,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-07-04,54.11,General Merchandise,,Credit Card,080 - HELZBERG DIAMONDS  AUSTIN       TX
+2,2019-07-03,-5.0,Online Services,,Credit Card,GOOGLE *YouTube Super    g.co/helppay#CA
+2,2019-07-02,428.92,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-07-02,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-07-02,-6.55,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-07-01,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-06-30,-14.58,Restaurants,Dining,Credit Card,THUNDERCLOUD - 09        AUSTIN       TX
+2,2019-06-30,-28.14,Restaurants,Dining,Credit Card,TST* VIA 313 EAST SIDE   AUSTIN       TX
+2,2019-06-30,-10.0,Entertainment,,Credit Card,COA PARKS &amp; REC          AUSTIN       TX
+2,2019-06-30,-10.0,Other Expenses,,Credit Card,PASSPORT PARKING         passportinc  NC
+2,2019-06-29,-12.98,Education,,Credit Card,HALF PRICE BOOKS #017    AUSTIN       TX
+2,2019-06-27,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-06-27,-16.18,Entertainment,,Credit Card,Audible US*MH2V47450     888-283-5051 NJ
+2,2019-06-27,-13.8,Restaurants,Dining,Credit Card,4th Tap Brewing CooperatiAustin       TX
+2,2019-06-26,-39.5,Telephone Services,,Credit Card,ZIPPIVET MOBILE 1        AUSTIN       TX
+2,2019-06-26,-6.75,Restaurants,Dining,Credit Card,TST* KERBEY LANE CAFE - SAUSTIN       TX
+2,2019-06-26,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-06-23,-12.0,Other Expenses,,Credit Card,TX STATE PKS FIELD       EGOV.COM     TX
+2,2019-06-22,-8.12,Clothing,Shoes,Credit Card,CLAIRE'S #1973           AUSTIN       TX
+2,2019-06-21,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-06-20,-132.38,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-06-20,-148.66,Telephone Services,,Credit Card,ZIPPIVET MOBILE 1        AUSTIN       TX
+2,2019-06-19,-16.18,Entertainment,,Credit Card,Audible US*M67826WY1     888-283-5051 NJ
+2,2019-06-18,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-06-17,-53.29,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-06-16,-55.51,Travel,,Credit Card,THE GREAT OUTDOORS       AUSTIN       TX
+2,2019-06-16,-17.74,Travel,,Credit Card,LYFT   *RIDE MON 8AM     LYFT.COM     CA
+2,2019-06-15,-0.48,Home Improvement,,Credit Card,IKEA ROUND ROCK          ROUND ROCK   TX
+2,2019-06-15,-9.26,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-06-14,-6.0,Other Expenses,,Credit Card,TX STATE PKS FIELD       EGOV.COM     TX
+2,2019-06-13,-72.93,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-06-13,-19.67,Travel,,Credit Card,LYFT   *RIDE MON 9PM     LYFT.COM     CA
+2,2019-06-12,-3.24,Travel,,Credit Card,AUSTIN AIRPORT-F&amp;B       AUSTIN       TX
+2,2019-06-12,-54.11,Clothing,Shoes,Credit Card,080 - HELZBERG DIAMONDS  AUSTIN       TX
+2,2019-06-12,-2.99,General Merchandise,,Credit Card,PARADIES #9046 PVD       WARWICK      RI
+2,2019-06-11,1121.82,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-06-11,500.0,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-06-11,-2.99,Home Improvement,,Credit Card,IKEA ROUND ROCK          ROUND ROCK   TX
+2,2019-06-10,-8.7,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-06-10,-9.07,Restaurants,Dining,Credit Card,BURGER KING #8633  Q07   CHARLOTTE    NC
+2,2019-06-10,-339.0,Travel,,Credit Card,COURTYARD PROVIDENCE     PROVIDENCE   RI
+2,2019-06-10,-22.95,Personal Care,,Credit Card,SUPERCUTS TX522-RIVERSIDEAUSTIN       TX
+2,2019-06-10,-33.96,Restaurants,Dining,Credit Card,TCBY/JUICE WORKS ORD     CHICAGO      IL
+2,2019-06-10,-762.49,Travel,,Credit Card,AMERICAN AIR0012358379606FORT WORTH   TX
+2,2019-06-09,-54.11,Clothing,Shoes,Credit Card,KAY JEWELERS #1778       AUSTIN       TX
+2,2019-06-09,-14.29,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-06-08,-42.53,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-06-08,-10.0,Restaurants,Dining,Credit Card,BUZZ MILL                AUSTIN       TX
+2,2019-06-06,163.02,Restaurants,Dining,Credit Card,MAD GREENS - 0303 - ECOMMAUSTIN       TX
+2,2019-06-06,-38.54,Gasoline,Fuel,Credit Card,FOOD SPOT CITGO          AUSTIN       TX
+2,2019-06-06,-12.89,Travel,,Credit Card,LYFT   *RIDE THU 12AM    LYFT.COM     CA
+2,2019-06-05,-12.31,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-06-05,-19.99,Business Miscellaneous,,Credit Card,AMZN MKTP US*M611A7VU2 AMAMZN.COM/BILLWA
+2,2019-06-05,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-06-05,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-06-05,1200.0,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-06-03,-8.5,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-06-03,-16.18,Entertainment,,Credit Card,Audible US*M60MA3CR2     888-283-5051 NJ
+2,2019-06-02,-25.59,Groceries,,Credit Card,SOBEYS 678        QPS    CAMBRIDGE    CD
+2,2019-06-01,-3.35,Gifts,,Credit Card,NIAGARA LEMONS           NIAGARA FALLSCD
+2,2019-06-01,-16.98,Restaurants,Dining,Credit Card,STARBUCKS 21891          TORONTO      CD
+2,2019-05-31,-8.5,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-05-30,-6.32,Restaurants,Dining,Credit Card,GODIVA CHOCLATIER OF C   TORONTO      CD
+2,2019-05-30,-7.44,Groceries,,Credit Card,GALATI MARKET FRESH      TORONTO      CD
+2,2019-05-30,-24.14,Home Maintenance,,Credit Card,WILLIAMS-SONOMA 0536     TORONTO      CD
+2,2019-05-30,-567.52,Travel,,Credit Card,DELTA HOTELS BY MARRIO   TORONTO      CD
+2,2019-05-29,-4.8,Restaurants,Dining,Credit Card,BLAZE PIZZA              TORONTO      CD
+2,2019-05-29,-140.56,Telephone Services,,Credit Card,ZIPPIVET MOBILE 1        AUSTIN       TX
+2,2019-05-28,-11.73,Gifts,,Credit Card,NIAGARA LEMONS           NIAGARA FALLSCD
+2,2019-05-28,-33.66,Electronics,,Credit Card,BEST BUY #977            TORONTO      CD
+2,2019-05-28,-17.58,Travel,,Credit Card,LYFT   *RIDE FRI 11PM    LYFT.COM     CA
+2,2019-05-28,-3.36,Entertainment,,Credit Card,RIPLEYS AQUARIUM         TORONTO      CD
+2,2019-05-28,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-05-28,-2.68,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-05-27,-15.06,Gifts,,Credit Card,BUTTERFLY CONSERVATORY - NIAGARA FALLSCD
+2,2019-05-27,-68.62,Restaurants,Dining,Credit Card,FIVE STAR LTD            TORONTO      CD
+2,2019-05-27,-17.45,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-05-26,-312.22,Restaurants,Dining,Credit Card,CN TOWER TICKETING       TORONTO      CD
+2,2019-05-26,-20.1,Gifts,,Credit Card,SUPER SOUVENIR           NIAGARA FALLSCD
+2,2019-05-26,-9.0,Travel,,Credit Card,PREMIER PARKING-SEAHOLM GAUSTIN       TX
+2,2019-05-25,-37.42,Groceries,,Credit Card,GALATI MARKET FRESH      TORONTO      CD
+2,2019-05-25,-1.6,Restaurants,Dining,Credit Card,STARBUCKS 21891          TORONTO      CD
+2,2019-05-25,-18.62,Travel,,Credit Card,IMPARK00090436A          TORONTO      CD
+2,2019-05-25,-10.78,Groceries,,Credit Card,PP*SOCOHOMEBRE           AUSTIN       TX
+2,2019-05-25,-30.44,Gasoline,Fuel,Credit Card,MARTINGROVE ESSO         ETOBICOKE    CD
+2,2019-05-25,-16.18,Entertainment,,Credit Card,Audible US*MN56L0MK0     888-283-5051 NJ
+2,2019-05-24,-0.16,Service Charges,Fees,Credit Card,Interest on Cash Advances
+2,2019-05-22,-33.75,Groceries,,Credit Card,GALATI MARKET FRESH      TORONTO      CD
+2,2019-05-22,-10.46,Restaurants,Dining,Credit Card,CHILI'S G09 ORD          CHICAGO      IL
+2,2019-05-22,1756.5,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-05-22,-585.5,Travel,,Credit Card,AMERICAN AIR0012355094798FORT WORTH   TX
+2,2019-05-21,-10.31,Home Improvement,,Credit Card,THE HOME DEPOT #6542     AUSTIN       TX
+2,2019-05-21,-15.62,Restaurants,Dining,Credit Card,SUBWAY SANDWICHES 5613   NORTH YORK   CD
+2,2019-05-21,-53.29,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-05-21,-585.5,Travel,,Credit Card,AMERICAN AIR0012355094800FORT WORTH   TX
+2,2019-05-21,-3.39,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-05-21,-12.0,Gasoline,Fuel,Credit Card,SQ *FOUR BROTHERS V      AUSTIN       TX
+2,2019-05-21,-29.83,Travel,,Credit Card,LYFT   *RIDE THU 8PM     VANCOUVER    CD
+2,2019-05-21,-13.84,Restaurants,Dining,Credit Card,GODIVA CHOCLATIER OF C   TORONTO      CD
+2,2019-05-20,-10.82,Restaurants,Dining,Credit Card,SQ *ACAI HUT             AUSTIN       TX
+2,2019-05-20,-18.62,Restaurants,Dining,Credit Card,THE GREAT CANADIAN POU   OTTAWA       CD
+2,2019-05-19,-585.5,Travel,,Credit Card,AMERICAN AIR0012355094799FORT WORTH   TX
+2,2019-05-19,-32.55,Gasoline,Fuel,Credit Card,CHEVRON 0107143          AUSTIN       TX
+2,2019-05-17,-7.0,Restaurants,Dining,Credit Card,SQ *HAVE A TACO  LLC     Austin       TX
+2,2019-05-17,-7.3,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-05-15,-5.94,Restaurants,Dining,Credit Card,SUBWAY        00233957   AUSTIN       TX
+2,2019-05-14,-5.97,Restaurants,Dining,Credit Card,DAVE &amp; BUSTERS #21       AUSTIN       TX
+2,2019-05-14,-64.35,Restaurants,Dining,Credit Card,TORCHYS TACOS SPCWD SPRINhttps://torchTX
+2,2019-05-13,-20.58,Travel,,Credit Card,LYFT   *RIDE MON 11PM    lyft.com     CA
+2,2019-05-12,-3.99,Online Services,,Credit Card,GOOGLE *Google Play      g.co/helppay#CA
+2,2019-05-11,-36.29,Electronics,,Credit Card,PHILLIP'S SEAFOOD CLT    CHARLOTTE    NC
+2,2019-05-11,-83.56,Restaurants,Dining,Credit Card,TORCHYS TACOS SPICEWOOD SAUSTIN       TX
+2,2019-05-11,-116.99,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-05-10,-27.06,Restaurants,Dining,Credit Card,BUZZ MILL                AUSTIN       TX
+2,2019-05-10,-60.0,Online Services,,Credit Card,PAYPAL *AMERICANSOC      402-935-7733 CA
+2,2019-05-10,1081.54,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-05-09,-13.26,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 2  AUSTIN       TX
+2,2019-05-08,-297.42,Travel,,Credit Card,DOUBLETREE SYRACUSE      SYRACUSE     NY
+2,2019-05-07,-24.0,Entertainment,,Credit Card,SQ *THE HIDEOUT THE      AUSTIN       TX
+2,2019-05-07,-7.7,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-05-07,-16.18,Entertainment,,Credit Card,Audible US*MZ1B167K0     888-283-5051 NJ
+2,2019-05-06,-5.13,Travel,,Credit Card,LYFT   *CANCEL FEE       lyft.com     CA
+2,2019-05-06,-29.67,Travel,,Credit Card,LYFT   *RIDE WED 1PM     lyft.com     CA
+2,2019-05-06,-11.7,Restaurants,Dining,Credit Card,GREAT AMER BAG K ORD     CHICAGO      IL
+2,2019-05-06,-8.5,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-05-05,-4.53,Restaurants,Dining,Credit Card,MCDONALD'S F17275        CHICAGO      IL
+2,2019-05-04,-1.55,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-05-04,-17.59,Travel,,Credit Card,LYFT   *RIDE WED 11PM    lyft.com     CA
+2,2019-05-04,-25.0,Clothing,Shoes,Credit Card,Etsy.com                 718-8557955  NY
+2,2019-05-03,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-05-02,-30.31,Restaurants,Dining,Credit Card,BUZZ MILL                AUSTIN       TX
+2,2019-05-01,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-05-01,-30.29,Restaurants,Dining,Credit Card,TACO CABANA 20129        AUSTIN       TX
+2,2019-04-30,-49.99,Other Expenses,,Credit Card,CERTAPET.COM             HTTPSWWW.CERTTX
+2,2019-04-29,-3.25,Gasoline,Fuel,Credit Card,7-ELEVEN 36586           AUSTIN       TX
+2,2019-04-28,-42.93,Business Miscellaneous,,Credit Card,AMZN MKTP US*MZ25Y6SS0 AMAMZN.COM/BILLWA
+2,2019-04-27,-8.8,Restaurants,Dining,Credit Card,AUS 3189 RUTA MAYA KIOSK AUSTIN       TX
+2,2019-04-27,2166.48,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-04-27,-15.14,Restaurants,Dining,Credit Card,TACO CABANA 20129        AUSTIN       TX
+2,2019-04-27,-110.75,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-04-26,-34.47,Gasoline,Fuel,Credit Card,GULF OIL 92053551        AUSTIN       TX
+2,2019-04-26,-166.27,Restaurants,Dining,Credit Card,MAD GREENS - 0303        AUSTIN       TX
+2,2019-04-25,-39.5,Telephone Services,,Credit Card,ZIPPIVET MOBILE 1        AUSTIN       TX
+2,2019-04-24,-17.39,Entertainment,,Credit Card,MOVIETICKETS*MovieTickets888-4408457  FL
+2,2019-04-24,-26.76,Groceries,,Credit Card,PP*SOCOHOMEBRE           AUSTIN       TX
+2,2019-04-24,-163.02,Restaurants,Dining,Credit Card,MAD GREENS - 0303 - ECOMM303-355-2499 TX
+2,2019-04-24,-15.79,Restaurants,Dining,Credit Card,JIMMY JOHNS # 491        AUSTIN       TX
+2,2019-04-23,-7.75,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-04-23,-16.99,Business Miscellaneous,,Credit Card,AMZN MKTP US*MZ3712791 AMAMZN.COM/BILLWA
+2,2019-04-23,-30.29,Restaurants,Dining,Credit Card,TACO CABANA 20129        AUSTIN       TX
+2,2019-04-23,-19.83,Restaurants,Dining,Credit Card,TST* JESTER KING BREWERY AUSTIN       TX
+2,2019-04-22,-14.47,Restaurants,Dining,Credit Card,SUBWAY        00143677   AUSTIN       TX
+2,2019-04-22,-7.5,Restaurants,Dining,Credit Card,TST* JESTER KING BREWERY AUSTIN       TX
+2,2019-04-22,-9.24,Restaurants,Dining,Credit Card,JIMMY JOHNS # 491        AUSTIN       TX
+2,2019-04-21,-16.18,Entertainment,,Credit Card,Audible US*MZ98L01I0     888-283-5051 NJ
+2,2019-04-20,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-18,-3.88,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-04-17,-1.49,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-17,-0.48,Service Charges,Fees,Credit Card,Interest on Cash Advances
+2,2019-04-15,-1.09,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-04-14,-115.36,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-04-14,-30.0,Online Services,,Credit Card,PAYPAL *AMERICANSOC      402-935-7733 CA
+2,2019-04-12,12.94,Education,,Credit Card,AMZN Mktp US             Amzn.com/billWA
+2,2019-04-12,-11.0,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-04-12,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-12,-18.94,Restaurants,Dining,Credit Card,MAD GREENS - 0303        AUSTIN       TX
+2,2019-04-11,-12.73,Home Improvement,,Credit Card,THE HOME DEPOT #6563     AUSTIN       TX
+2,2019-04-11,-822.4,Healthcare,Medical,Credit Card,WESTLAKE ANESTHESIA GR   512-423-3247 TX
+2,2019-04-11,-5.59,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-04-10,-21.63,Postage and Shipping,,Credit Card,THE UPS STORE #6608      AUSTIN       TX
+2,2019-04-10,-53.29,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-04-09,-129.9,Restaurants,Dining,Credit Card,MAD GREENS - CATERING    303-355-2499 CO
+2,2019-04-09,-1.49,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-09,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-09,-15.77,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-04-08,-9.74,Automotive Expenses,,Credit Card,TST* GATI - FOOD TRUCK   AUSTIN       TX
+2,2019-04-08,-606.46,Travel,,Credit Card,AMERICAN AIR0012346243346FORT WORTH   TX
+2,2019-04-07,-37.58,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-04-07,-100.0,Service Charges,Fees,Credit Card,USAA FSB-OVERDRAFT       SAN ANTONIO  TX
+2,2019-04-07,-1.49,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-05,733.13,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-04-05,-49.0,Telephone Services,,Credit Card,ZIPPIVET MOBILE 1        AUSTIN       TX
+2,2019-04-05,-1.49,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-04,-9.0,Restaurants,Dining,Credit Card,BUZZ MILL                AUSTIN       TX
+2,2019-04-04,-62.95,Pets,Pet Care,Credit Card,SOUTH BRANCH PET &amp; BIRD CAUSTIN       TX
+2,2019-04-04,-24.0,Travel,,Credit Card,PREMIER PARKING - LITTLEFAUSTIN       TX
+2,2019-04-04,-400.0,General Merchandise,,Credit Card,AUSTINS COUCH POTATOES   AUSTIN       TX
+2,2019-04-04,-33.19,Automotive Expenses,,Credit Card,H-E-B GAS/CARWASH #628   AUSTIN       TX
+2,2019-04-04,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-04-03,-7.5,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-04-03,-0.99,Personal Care,,Credit Card,GOLDS GYM DT 6THBRAZOS   5124790044   TX
+2,2019-04-02,826.83,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-04-02,-75.72,Restaurants,Dining,Credit Card,TACO CABANA 20129 OLO    olo.com      TX
+2,2019-04-02,-5.0,Travel,,Credit Card,ABM PARKING AUSTIN CTY HLAUSTIN       TX
+2,2019-04-01,-100.0,General Merchandise,,Credit Card,AUSTINS COUCH POTATOES   AUSTIN       TX
+2,2019-04-01,-606.46,Travel,,Credit Card,AMERICAN AIR0012346243345FORT WORTH   TX
+2,2019-04-01,-34.2,Restaurants,Dining,Credit Card,HAYMAKER                 AUSTIN       TX
+2,2019-03-30,-12.99,Restaurants,Dining,Credit Card,SOUTHSIDE CAFE1626       AUSTIN       TX
+2,2019-03-30,-683.51,Travel,,Credit Card,ARC MYCHART/GUEST PAY    512-231-5512 TX
+2,2019-03-29,1724.58,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-03-29,-8.5,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-03-28,-12.98,Restaurants,Dining,Credit Card,SQ *AUSTIN EASTCIDE      AUSTIN       TX
+2,2019-03-28,-4.93,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 4  AUSTIN       TX
+2,2019-03-28,-23.06,Restaurants,Dining,Credit Card,SALTY SOW                AUSTIN       TX
+2,2019-03-28,-14.94,General Merchandise,,Credit Card,AMZN Mktp US*MW4DS7NZ2   Amzn.com/billWA
+2,2019-03-27,-300.0,Pets,Pet Care,Credit Card,ZIPPIVET KYLE            KYLE         TX
+2,2019-03-27,-10.47,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 12 AUSTIN       TX
+2,2019-03-26,800.0,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-03-26,-7.0,Restaurants,Dining,Credit Card,BUZZ MILL                AUSTIN       TX
+2,2019-03-24,-22.95,Personal Care,,Credit Card,SUPERCUTS TX522-RIVERSIDEAUSTIN       TX
+2,2019-03-22,-13.34,Gasoline,Fuel,Credit Card,SHELL OIL 57544800006    AUSTIN       TX
+2,2019-03-22,-9.26,Restaurants,Dining,Credit Card,P TERRYS BURGER STAND 4  AUSTIN       TX
+2,2019-03-21,-1.73,Travel,,Credit Card,LYFT   *SCOOTER RIDE     lyft.com     CA
+2,2019-03-20,-11.0,Gasoline,Fuel,Credit Card,SQ *FOUR BROTHERS V      AUSTIN       TX
+2,2019-03-20,-58.7,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-03-19,-5.0,Restaurants,Dining,Credit Card,SQ *MUNCH ZONE           AUSTIN       TX
+2,2019-03-19,-1.08,General Merchandise,,Credit Card,DOLLARTREE               AUSTIN       TX
+2,2019-03-19,-16.18,Entertainment,,Credit Card,Audible US*MW8Q82AY0     888-283-5051 NJ
+2,2019-03-19,-21.0,Travel,,Credit Card,PREMIER PARKING-SEAHOLM GAUSTIN       TX
+2,2019-03-18,-54.11,Clothing,Shoes,Credit Card,KAY JEWELERS #2825       AUSTIN       TX
+2,2019-03-18,-0.97,Travel,,Credit Card,UBER   QQF5F             HELP.UBER.COMCA
+2,2019-03-17,-3.0,Postage and Shipping,,Credit Card,THE UPS STORE #6726      AUSTIN       TX
+2,2019-03-17,-12.09,Groceries,,Credit Card,CORNER STORE 1570        AUSTIN       TX
+2,2019-03-15,-5.0,Restaurants,Dining,Credit Card,SQ *BANANARCHY           AUSTIN       TX
+2,2019-03-14,-1.73,Travel,,Credit Card,LYFT   *SCOOTER RIDE     lyft.com     CA
+2,2019-03-13,-2.38,Travel,,Credit Card,LYFT   *SCOOTER RIDE     lyft.com     CA
+2,2019-03-13,-1.3,Travel,,Credit Card,UBER   5FSYI             HELP.UBER.COMCA
+2,2019-03-12,-2.38,Automotive Expenses,,Credit Card,H-E-B GAS/CARWASH #628   AUSTIN       TX
+2,2019-03-11,-24.86,Restaurants,Dining,Credit Card,SQ *TASTE OF INDIA       Austin       TX
+2,2019-03-11,-12.94,General Merchandise,,Credit Card,AMZN Mktp US*MI4R04IH2   Amzn.com/billWA
+2,2019-03-11,-8.49,General Merchandise,,Credit Card,AMZN Mktp US*MI4NJ1QY0   Amzn.com/billWA
+2,2019-03-10,-0.98,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-03-09,-16.45,Groceries,,Credit Card,CORNER STORE 0966        AUSTIN       TX
+2,2019-03-08,-8.67,Travel,,Credit Card,LYFT   *RIDE THU 9PM     lyft.com     CA
+2,2019-03-08,-25.0,Utilities,,Credit Card,AUSTIN ENERGY-GREEN BU   512-974-7884 TX
+2,2019-03-07,-3.88,Restaurants,Dining,Credit Card,IHOP 1421     00014217   AUSTIN       TX
+2,2019-03-07,-21.86,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-03-06,-18.57,Restaurants,Dining,Credit Card,TST* JUICELAND - HYDE PARAUSTIN       TX
+2,2019-03-04,-20.8,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-03-04,-6.8,Office Supplies,,Credit Card,OFFICEMAX/DEPOT 6745     AUSTIN       TX
+2,2019-03-03,-6.21,Travel,,Credit Card,LYFT   *RIDE FRI 8PM     lyft.com     CA
+2,2019-03-02,-10.68,Gasoline,Fuel,Credit Card,EXXONMOBIL    47946579   AUSTIN       TX
+2,2019-03-01,-330.27,Clothing,Shoes,Credit Card,KAY JEWELERS #2825       AUSTIN       TX
+2,2019-03-01,-8.6,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-02-27,521.77,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-02-26,43.52,Home Improvement,,Credit Card,THE HOME DEPOT #6542     AUSTIN       TX
+2,2019-02-25,-16.18,Entertainment,,Credit Card,Audible US               888-283-5051 NJ
+2,2019-02-25,-88.59,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-02-24,-29.94,Gasoline,Fuel,Credit Card,SHELL OIL 57545449803    AUSTIN       TX
+2,2019-02-23,-13.18,Home Improvement,,Credit Card,THE HOME DEPOT #6542     AUSTIN       TX
+2,2019-02-23,-4.79,Restaurants,Dining,Credit Card,TST* MOUR CAFE           AUSTIN       TX
+2,2019-02-22,-2.19,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-02-21,-0.6,Utilities,,Credit Card,CHASE-AUSTIN ENERGY GR   866-330-7329 IL
+2,2019-02-21,-21.22,General Merchandise,,Credit Card,AMZN Mktp US*MI5D90QJ0   Amzn.com/billWA
+2,2019-02-20,-18.95,General Merchandise,,Credit Card,AMZN Mktp US*MI9Y75A42   Amzn.com/billWA
+2,2019-02-20,-55.5,General Merchandise,,Credit Card,WM SUPERCENTER #1253     AUSTIN       TX
+2,2019-02-19,-6.4,Restaurants,Dining,Credit Card,DAVE &amp; BUSTERS #21       AUSTIN       TX
+2,2019-02-19,21.64,Healthcare,Medical,Credit Card,CVS/PHARMACY #00213      AUSTIN       TX
+2,2019-02-19,-11.93,Gasoline,Fuel,Credit Card,CHEVRON 0203165          AUSTIN       TX
+2,2019-02-18,-12.19,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-02-18,-11.31,Restaurants,Dining,Credit Card,TACODELI SPYGLASS        AUSTIN       TX
+2,2019-02-18,-58.7,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-02-16,-9.96,Restaurants,Dining,Credit Card,TACODELI SPYGLASS        AUSTIN       TX
+2,2019-02-16,-14.09,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-02-16,-1.49,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-02-16,-1.5,Electronics,,Credit Card,COINMACH SAN ANTONIO     SAN ANTONIO  TX
+2,2019-02-14,-1.2,Travel,,Credit Card,COA PARKING METERS       AUSTIN       TX
+2,2019-02-13,-2.1,Travel,,Credit Card,COA PARKING METERS       AUSTIN       TX
+2,2019-02-12,-20.0,Other Expenses,,Credit Card,CERTAPET.COM             HTTPSWWW.CERTTX
+2,2019-02-12,-74.55,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-02-12,809.78,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-02-11,-20.0,Dues and Subscriptions,,Credit Card,SQUARESPACE INC.         HTTPSSQUARESPNY
+2,2019-02-11,-7.8,Restaurants,Dining,Credit Card,SQ *TAQUERIA LOS CH      AUSTIN       TX
+2,2019-02-11,-1.05,Postage and Shipping,,Credit Card,USPS.COM MOVER'S GUIDE   800-238-3150 TN
+2,2019-02-11,-19.41,Automotive Expenses,,Credit Card,H-E-B GAS/CARWASH #628   AUSTIN       TX
+2,2019-02-11,-20.55,Healthcare,Medical,Credit Card,CVS/PHARMACY #00213      AUSTIN       TX
+2,2019-02-11,-21.64,Healthcare,Medical,Credit Card,CVS/PHARMACY #00213      AUSTIN       TX
+2,2019-02-07,-5.0,Restaurants,Dining,Credit Card,TST* MOUR CAFE           AUSTIN       TX
+2,2019-02-07,-60.96,Home Improvement,,Credit Card,THE HOME DEPOT #6563     AUSTIN       TX
+2,2019-02-07,-46.59,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-02-05,-12.19,Restaurants,Dining,Credit Card,SUBWAY        00143677   AUSTIN       TX
+2,2019-02-04,-72.28,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-02-04,-18.66,General Merchandise,,Credit Card,AMZN Mktp US*MB9YF3970   Amzn.com/billWA
+2,2019-02-03,139.64,Education,,Credit Card,Amazon.com               Amzn.com/billWA
+2,2019-02-01,-10.89,General Merchandise,,Credit Card,AMZN Mktp US*MB9KJ7BK2   Amzn.com/billWA
+2,2019-01-31,-39.95,Other Expenses,,Credit Card,CHANGE OF POSTAL ADDRESS 855-6945100  CA
+2,2019-01-29,-17.99,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-01-28,-10.12,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-01-28,-0.64,Healthcare,Medical,Credit Card,CVS/PHARMACY #06945      AUSTIN       TX
+2,2019-01-28,-14.39,Groceries,,Credit Card,PP*SOCOHOMEBRE           AUSTIN       TX
+2,2019-01-23,-13.15,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-01-23,-19.5,Personal Care,,Credit Card,GREAT HAIRCUTS OF TEXA   AUSTIN       TX
+2,2019-01-22,-7.48,Restaurants,Dining,Credit Card,DAVE &amp; BUSTERS #21       AUSTIN       TX
+2,2019-01-22,-5.11,Groceries,,Credit Card,CORNER STORE 0552        AUSTIN       TX
+2,2019-01-21,-8.11,Restaurants,Dining,Credit Card,SUBWAY        00105692   AUSTIN       TX
+2,2019-01-20,-57.8,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-01-20,365.0,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-01-20,-3.79,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-01-19,-26.99,General Merchandise,,Credit Card,WAL-MART #1253           AUSTIN       TX
+2,2019-01-19,87.67,Automotive Expenses,,Credit Card,OREILLY AUTO #2276       AUSTIN       TX
+2,2019-01-18,-44.99,Other Expenses,,Credit Card,CERTAPET.COM             HTTPSWWW.CERTTX
+2,2019-01-18,-364.78,Automotive Expenses,,Credit Card,LATHAM AUTOMOTIVE        MANCHACA     TX
+2,2019-01-18,-25.27,Groceries,,Credit Card,H-E-B  #229              AUSTIN       TX
+2,2019-01-18,-11.96,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-01-17,-58.7,Personal Care,,Credit Card,MSF*GOLDS GYM TXAUSTIN   512-4790044  TX
+2,2019-01-17,-179.99,Other Expenses,,Credit Card,CERTAPET.COM             HTTPSWWW.CERTTX
+2,2019-01-17,-3.06,Postage and Shipping,,Credit Card,THE UPS STORE #6608      AUSTIN       TX
+2,2019-01-16,-16.81,Restaurants,Dining,Credit Card,TST* PINTHOUSE PIZZA - SOAUSTIN       TX
+2,2019-01-15,-86.55,Home Improvement,,Credit Card,THE RANGE AT AUSTIN      AUSTIN       TX
+2,2019-01-15,-14.0,Electronics,,Credit Card,THE SAHARA LOUNGE        AUSTIN       TX
+2,2019-01-15,-48.19,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-01-15,-8.4,Restaurants,Dining,Credit Card,TST* PINTHOUSE PIZZA - SOAUSTIN       TX
+2,2019-01-14,-4.23,Groceries,,Credit Card,H-E-B  #091              AUSTIN       TX
+2,2019-01-14,-72.51,Home Improvement,,Credit Card,THE RANGE AT AUSTIN      AUSTIN       TX
+2,2019-01-13,42.94,Clothing,Shoes,Credit Card,VIRALSTYLE.COM           888-491-8876 FL
+2,2019-01-12,-14.0,Electronics,,Credit Card,THE SAHARA LOUNGE        AUSTIN       TX
+2,2019-01-12,-14.0,Electronics,,Credit Card,THE SAHARA LOUNGE        AUSTIN       TX
+2,2019-01-10,-0.96,Personal Care,,Credit Card,GOLDS GYM  SOUTHEAST     5123838990   TX
+2,2019-01-10,-38.97,General Merchandise,,Credit Card,AMZN Mktp US*M25J85UR2   Amzn.com/billWA
+2,2019-01-09,118.29,Travel,,Credit Card,UNITED      0162412853394800-932-2732 TX
+2,2019-01-07,-34.98,General Merchandise,,Credit Card,AMZN Mktp US*M23TA0R02   Amzn.com/billWA
+2,2019-01-06,837.6,Credit Card Payments,,Credit Card,USAA CREDIT CARD PAYMENT SAN ANTONIO  TX
+2,2019-01-06,-12.26,Groceries,,Credit Card,MT SUPERMARKET           AUSTIN       TX
+2,2019-01-06,-87.67,Automotive Expenses,,Credit Card,OREILLY AUTO #0492       AUSTIN       TX
+2,2019-01-06,-9.86,Travel,,Credit Card,LYFT   *RIDE TUE 12AM    LYFT.COM     CA
+2,2019-01-03,-3.3,Groceries,,Credit Card,RANDALLS #2481           AUSTIN       TX
+2,2019-01-03,-4.5,Restaurants,Dining,Credit Card,MOZARTS COFFEE ROASTERS  AUSTIN       TX
+2,2019-01-02,-10.26,Restaurants,Dining,Credit Card,SUBWAY        03143260   AUSTIN       TX
+2,2019-01-01,-21.58,Restaurants,Dining,Credit Card,SQ *CELESTIAL PIZZA      Austin       TX
+2,2018-12-31,-837.6,Entertainment,,Credit Card,SEALY INC                336-861-3658 NC
